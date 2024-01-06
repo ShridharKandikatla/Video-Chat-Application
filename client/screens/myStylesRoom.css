@@ -1,0 +1,41 @@
+.room-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  color: #3498db;
+}
+
+.connection-status {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #2ecc71;
+}
+
+.action-button {
+  margin: 2px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.action-button:hover {
+  background-color: #2980b9;
+}
+
+.stream-container {
+  margin-top: 30px;
+}
+
+.stream-title {
+  font-size: 20px;
+  color: #e74c3c;
+  margin-bottom: 10px;
+}
